@@ -1,2 +1,2 @@
 # git_test
-Git Project from Odin Project
+This is Zach's first git project!
